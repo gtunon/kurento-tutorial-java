@@ -7,9 +7,10 @@
 
 Copyright © 2013-2016 [Kurento]. Licensed under [Apache 2.0 License].
 
-Kurento-tutorial (fork from original [Kurento/kurento-tutorial-java](https://github.com/Kurento/kurento-tutorial-java)) Testing and messing repo...
+Kurento-tutorial 
 ======================
 
+(fork from original [Kurento/kurento-tutorial-java](https://github.com/Kurento/kurento-tutorial-java)) Testing and messing repo...
 
 Examples on usage of the Kurento Java Client.
 
