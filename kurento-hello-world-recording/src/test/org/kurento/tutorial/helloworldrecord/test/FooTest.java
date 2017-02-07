@@ -10,5 +10,10 @@ public class FooTest {
 	public void test() {
 		fail("Not yet implemented");
 	}
+	
+	@Test
+	public void testFail() {
+		fail("Not yet implemented");
+	}
 
 }
