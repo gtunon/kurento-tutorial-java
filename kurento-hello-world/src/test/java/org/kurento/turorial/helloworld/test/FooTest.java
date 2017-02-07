@@ -6,10 +6,6 @@ import org.junit.Test;
 
 public class FooTest {
 
-	@Test
-	public void testFail() {
-		fail("Not yet implemented");
-	}
 	
 	@Test
 	public void testOK() {
